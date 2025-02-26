@@ -1,0 +1,14 @@
+C:\Users\Санчепездол\source\repos\13\13.1\bin\Debug\13.1.exe.config
+C:\Users\Санчепездол\source\repos\13\13.1\bin\Debug\13.1.exe
+C:\Users\Санчепездол\source\repos\13\13.1\bin\Debug\13.1.pdb
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.csprojAssemblyReference.cache
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\MainWindow.baml
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\MainWindow.g.cs
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\App.g.cs
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1_MarkupCompile.cache
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.g.resources
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\_13._1.Properties.Resources.resources
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.csproj.GenerateResource.cache
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.csproj.CoreCompileInputs.cache
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.exe
+C:\Users\Санчепездол\source\repos\13\13.1\obj\Debug\13.1.pdb
