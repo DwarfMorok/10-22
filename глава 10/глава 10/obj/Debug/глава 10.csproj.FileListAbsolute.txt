@@ -1,0 +1,16 @@
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\bin\Debug\глава 10.exe.config
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\bin\Debug\глава 10.exe
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\bin\Debug\глава 10.pdb
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.csprojAssemblyReference.cache
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\MainWindow.baml
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\MainWindow.g.cs
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\App.g.cs
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10_MarkupCompile.cache
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.g.resources
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава_10.Properties.Resources.resources
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.csproj.GenerateResource.cache
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.csproj.CoreCompileInputs.cache
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.exe
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10.pdb
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Санчепездол\source\repos\глава 10\глава 10\obj\Debug\глава 10_MarkupCompile.lref
