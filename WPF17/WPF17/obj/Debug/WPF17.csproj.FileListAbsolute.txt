@@ -1,3 +1,0 @@
-D:\WPF-1\WPF17\WPF17\obj\Debug\WPF17.csproj.AssemblyReference.cache
-D:\WPF-1\WPF17\WPF17\obj\Debug\App.g.cs
-D:\WPF-1\WPF17\WPF17\obj\Debug\WPF17_MarkupCompile.cache
